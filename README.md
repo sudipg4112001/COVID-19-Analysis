@@ -1,5 +1,11 @@
 # COVID-19_analysis
 
+### This project is on COVID-19 classification from radiographic images(X-Ray images) using Deep Neural Network.
+
+## Classifiers used:
+- VGG-16
+- Resnet18
+
 ## Dataset: https://drive.google.com/drive/folders/1hDQsrhHKWQbikWZLM2GMJXLfH0jxoIFG?usp=sharing
 
 
