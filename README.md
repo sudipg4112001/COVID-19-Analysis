@@ -7,7 +7,7 @@
 - Resnet18
 
 ## Dataset: CoronaHack-Chest-X ray dataset
-Dataset can be found in the link below:
+### Dataset can be found in the link below:
 https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset
 https://drive.google.com/drive/folders/1hDQsrhHKWQbikWZLM2GMJXLfH0jxoIFG?usp=sharing
 
