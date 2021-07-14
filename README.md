@@ -17,10 +17,10 @@ Collection Chest X Ray of Healthy vs Pneumonia (Corona) affected patients infect
 
 Images name and labels are available in ChestXrayCorona_Metadata.csv
 
-- COVID 19 - https://en.wikipedia.org/wiki/Coronavirus_disease_2019
-- ARDS - https://en.wikipedia.org/wiki/Acute_respiratory_distress_syndrome
-- Streptococcus - https://en.wikipedia.org/wiki/Streptococcus
-- SARS - https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome
+- COVID 19
+- ARDS
+- Streptococcus
+- SARS 
 
 ![inbox_378285_cfdeda929ebe5e6254590538601c0ef6_Chest_XRay_dataset_labels](https://user-images.githubusercontent.com/60208804/125648624-ca9e5a1a-2b0d-4031-a935-6b7b529472be.png)
 
