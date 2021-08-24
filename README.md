@@ -1,4 +1,4 @@
-# COVID-19_analysis
+# COVID-19 Analysis
 
 ### This peoject is on COVID-19 Automatic Diagnosis with Radiographic Imaging: Explainable Attention Transfer Deep Neural Networks
 ## Classifiers used:
