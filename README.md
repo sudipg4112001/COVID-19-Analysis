@@ -4,6 +4,10 @@
 ## Classifiers used:
 - VGG-16
 - Resnet18
+- EfficientNetB2
+- ResNet50 + Feature Pyramid
+- VGG19
+- EfficientNetB7
 
 ## Dataset: CoronaHack-Chest-X ray dataset
 
